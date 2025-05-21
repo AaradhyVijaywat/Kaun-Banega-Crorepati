@@ -16,7 +16,8 @@ This is a Python-based command-line quiz game inspired by the popular Indian tel
 ## 🛠️ Tech Stack
 
 - **Language:** Python 3
-- **Interface:** Command-Line (CLI)
+- **Module** playsound
+- **Interface:** Command-Line (CLI), VS Code
 
 ---
 
